@@ -2,6 +2,11 @@
 
 a site for lights
 
+<form action="your_url" method="post">
+    <button type="submit" name="your_name" value="your_value" class="btn-link">Go</button>
+</form>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
