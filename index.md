@@ -2,7 +2,7 @@
 
 a site for lights
 
-<form action="your_url" method="post">
+<form action="https://hooks.nabu.casa/gAAAAABfv_2XBHh844W3eoI-4Jm-1IWexxGmZWsN0ZY7LWfmOykAkfZpIkeN3zoiJ7YPJB3MQ_A3zho-wuW29Eu8EfUQ7SI4VZytrrEH2VmHbL6mwLbovZQGhaoEsW6Hs6r676TU06DYI0zI3ew5QTDu6tbl66DCn-pSsFyY5F3C3PcG7pzRqO8=" method="post">
     <button type="submit" name="your_name" value="your_value" class="btn-link">Go</button>
 </form>
 
