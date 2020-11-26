@@ -6,6 +6,19 @@ a site for lights
     <button type="submit" name="your_name" value="your_value" class="btn-link">Go</button>
 </form>
 
+another
+
+<script type="text/javascript">
+$(function() {
+  $('form').submit(function(){
+    $.post('http://example.com/upload', function() {
+      window.location = 'http://google.com';
+    });
+    return false;
+  });
+});
+</script>
+
 
 ### Markdown
 
